@@ -1,4 +1,4 @@
-from status import AdminFilter
+from .status import AdminFilter
 
 __all__ = [
     'AdminFilter'
